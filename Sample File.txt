@@ -1,3 +1,7 @@
 Hello. This is sample file.
 
+
 Adding more code from feature 2
+
+Adding more code from feature 1.
+
