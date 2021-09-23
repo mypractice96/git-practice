@@ -1,0 +1,9 @@
+Datastore: FIES-AZ1-PM50-2-254-T2
+Network : _FI01_Janus|FI01_app|epg_APP
+api.enentodemocluster.janus.com : 10.255.16.48
+*.apps.enentodemocluster.janus.com : 10.255.16.49
+Basedomain details : janus.com
+Vcenter url: https://fieslpvcs01.fi.tcsecp.com/
+Vcenter user previliges: fi\563805
+Password@12345
+DNS and Proxy details : 10.255.17.102 / 10.255.0.19
